@@ -1,8 +1,29 @@
 aid: grover
 name: Grover
-description: Grover is a company surfaced as a portfolio company of anthemis, seedcamp and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Grover is a Berlin-based consumer technology rental and subscription company
+  that lets people rent smartphones, laptops, gaming consoles, cameras, smart
+  home devices, and audio gear on flexible monthly plans ranging from one to
+  twenty-four-plus months. With more than 500,000 active renters across the
+  United States, Germany, Austria, Spain, and the Netherlands, Grover positions
+  flexible tech access as a circular, subscription-based alternative to
+  ownership, refurbishing and recirculating returned devices for resale. Grover
+  is a consumer-facing service and does not currently publish a public developer
+  portal or API; this profile captures its public identity and web properties
+  for the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/grover/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.grover.com/favicon.ico
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,9 +33,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Consumer Electronics
+- Rental
+- Subscription
+- Circular Economy
+- Technology
+- Ecommerce
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +50,21 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://seedcamp.com/company/grover/
+  url: https://www.grover.com/
+- type: Blog
+  url: https://www.grover.com/us-en/blog
+- type: Support
+  url: https://service.grover.com/hc/en
+- type: GettingStarted
+  url: https://www.grover.com/us-en/how-it-works
+- type: PrivacyPolicy
+  url: https://www.grover.com/us-en/g-about/privacy-policy
+- type: TermsOfService
+  url: https://www.grover.com/us-en/g-about/terms-and-conditions
+- type: DomainSecurity
+  url: security/grover-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
