@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Grover is a company surfaced as a portfolio company of anthemis, seedcamp and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Grover is a Berlin-based consumer technology rental and subscription company that lets people rent smartphones, laptops, gaming consoles, cameras, smart home devices, and audio gear on flexible monthly plans ranging from one to twenty-four-plus months. With more than 500,000 active renters across the United States, Germany, Austria, Spain, and the Netherlands, Grover positions flexible tech access as a circular, subscription-based alternative to ownership, refurbishing and recirculating returned devices for resale. Grover is a consumer-facing service and does not currently publish a public developer portal or API; this profile captures its public identity and web properties for the API Evangelist network.
 
-Backed by: anthemis, seedcamp — https://seedcamp.com/company/grover/
+**Areas:** Company · Consumer Electronics · Rentals · Subscription · Circular Economy · Technology · E-Commerce
+
+## Grover on APIs.io
+
+Everything profiled for Grover is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/grover/](https://apis.io/providers/grover/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Grover Domain Security](https://apis.io/security/grover/grover-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.grover.com/)
+- [Getting started](https://www.grover.com/us-en/how-it-works)
+- [Support](https://service.grover.com/hc/en)
+- [Blog](https://www.grover.com/us-en/blog)
+- [Terms of service](https://www.grover.com/us-en/g-about/terms-and-conditions)
+- [Privacy policy](https://www.grover.com/us-en/g-about/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 12.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/grover/](https://apis.io/providers/grover/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Grover: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/grover/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
